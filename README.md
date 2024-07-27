@@ -2,7 +2,7 @@
 
 ## Linguagem Usada
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" width="50">
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 Este projeto é um programa simples para gerenciar uma lista de compras. Ele permite adicionar, remover, pesquisar e listar produtos. A aplicação é implementada em Python e utiliza a biblioteca `os` para limpar a tela do terminal.
 
